@@ -4,5 +4,9 @@
     "strength" : "hard",
     "password" : "8762Abkjd$%#"
   },
-  
+  {
+    "id" : 2,
+    "strength" : "hard",
+    "password" : "fx-82esp"
+  },
 ]
